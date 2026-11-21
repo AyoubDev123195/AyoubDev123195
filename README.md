@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AyoubDev123195/AyoubDev123195/main/avatar.jpg" alt="Illustrated portrait of Ayoub" width="120" align="right">
+[![Ayoub · Mac app portfolio](https://raw.githubusercontent.com/AyoubDev123195/AyoubDev123195/main/header.svg)](https://ayoubdev123195.github.io/pos-newone-portfolio/)
 
 # Hi, I’m Ayoub
 

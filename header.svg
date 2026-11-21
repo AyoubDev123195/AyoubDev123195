@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="208" viewBox="0 0 1000 208" role="img" aria-labelledby="title desc">
+  <title id="title">Ayoub · Mac app portfolio</title>
+  <desc id="desc">Cream lettering on a black and purple panel with a gold rule and an abstract stack of product labels.</desc>
+  <defs>
+    <linearGradient id="panel"><stop stop-color="#0B0B12"/><stop offset="1" stop-color="#251546"/></linearGradient>
+  </defs>
+  <rect width="1000" height="208" rx="16" fill="url(#panel)"/>
+  <path d="M44 44v120" stroke="#D4AF37" stroke-width="3"/>
+  <g fill="#F5F3FF" font-family="Georgia,serif"><text x="68" y="111" font-size="77">Ayoub</text></g>
+  <text x="72" y="155" fill="#A78BFA" font-family="system-ui,sans-serif" font-size="24">Mac app portfolio</text>
+  <g transform="translate(821 103) rotate(-15)" fill="#0B0B12" stroke-width="2">
+    <rect x="-77" y="-43" width="123" height="79" rx="11" stroke="#3B82F6"/>
+    <rect x="-60" y="-51" width="123" height="79" rx="11" stroke="#7C3AED"/>
+    <rect x="-43" y="-59" width="123" height="79" rx="11" stroke="#A78BFA"/>
+    <path d="M-23-40v36m10-36v36m16-36v36m12-36v36m15-36v36m8-36v36" stroke="#A78BFA" stroke-width="4"/>
+    <circle cx="58" cy="-12" r="5" fill="#D4AF37" stroke="none"/>
+  </g>
+</svg>
